@@ -32,6 +32,9 @@ ul {
 
   align-items: center;
 }
+nav-item {
+  padding: 24px 0;
+}
 
 .nav-logo {
   display: flex;
@@ -217,6 +220,7 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 .our-team-member {
   font-family: 'Roboto', sans-serif;
