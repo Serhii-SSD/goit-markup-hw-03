@@ -32,9 +32,6 @@ ul {
 
   align-items: center;
 }
-nav-item {
-  padding: 24px 0;
-}
 
 .nav-logo {
   display: flex;
@@ -84,6 +81,8 @@ nav-item {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
+  display: block;
+  padding: 24px 0;
 }
 .nav-link:hover {
   color: #404bbf;
